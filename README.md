@@ -1,6 +1,6 @@
 # MLC Computer Vision Reading Group
 ### Overview
-The MLC-CV reading group is computer vision reading which follows a role-playing discussion &amp; facilitation model. One of the is the hacker, who is responsible for re-implementing some small part of a project. We track and organize this re-implemented code in this repository. 
+The MLC-CV reading group is computer vision reading group which follows a role-playing discussion &amp; facilitation model. One of the roles is the hacker, who is responsible for re-implementing some small part of a project. We track and organize this re-implemented code in this repository. 
 
 ### How to Contribute
 1. Join the Discord

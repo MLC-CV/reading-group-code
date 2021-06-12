@@ -8,6 +8,8 @@ The MLC-CV reading group is computer vision reading group which follows a role-p
 3. [Subscribe to the Calendar](https://calendar.google.com/calendar/u/1/r?cid=dGNrNW1zbmM0bTgxNjVmMnVtaXJxdDZzODRAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
 
 ### Previously Reviewed Papers
+
+* __June 12th, 2021__: "_What is being transferred in transfer learning?_" Neyshabur, Behnam, et al.
 * __June 5th, 2021__: "_Differentiable Patch Selection for Image Recognition._" Cordonnier, Jean-Baptiste, et al. 
 * __June 15th, 2021__: "_Space-time correspondence as a contrastive random walk._" Jabri, Allan, Andrew Owens, and Alexei A. Efros.
 * __May 8th, 2021__: "_An image is worth 16x16 words: Transformers for image recognition at scale._" Dosovitskiy, Alexey, et al. 
